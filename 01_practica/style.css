@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+  }
+  
+  #section1 {
+    background-color:hotpink;
+  }
+  
+  #section2 {
+    background-color: darkorchid;
+  }
+  #section2 img {
+   height: 200px;
+   width: 200px;
+  }
+
+  
+  #section3 {
+    background-color: mediumspringgreen;
+    text-align: center;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
