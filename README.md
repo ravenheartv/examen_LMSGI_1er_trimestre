@@ -1,4 +1,4 @@
-# Examen 1er trimestre BBDD
+# Examen 1er trimestre LMSGI
 
 1º de DAM en ESCAV Granada
 
